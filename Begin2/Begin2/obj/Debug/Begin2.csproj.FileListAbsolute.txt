@@ -1,0 +1,7 @@
+C:\Users\qwerty\source\repos\Begin2\Begin2\bin\Debug\Begin2.exe.config
+C:\Users\qwerty\source\repos\Begin2\Begin2\bin\Debug\Begin2.exe
+C:\Users\qwerty\source\repos\Begin2\Begin2\bin\Debug\Begin2.pdb
+C:\Users\qwerty\source\repos\Begin2\Begin2\obj\Debug\Begin2.csproj.AssemblyReference.cache
+C:\Users\qwerty\source\repos\Begin2\Begin2\obj\Debug\Begin2.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\source\repos\Begin2\Begin2\obj\Debug\Begin2.exe
+C:\Users\qwerty\source\repos\Begin2\Begin2\obj\Debug\Begin2.pdb
