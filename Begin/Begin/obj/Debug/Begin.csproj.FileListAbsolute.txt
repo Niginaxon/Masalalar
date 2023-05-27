@@ -1,0 +1,2 @@
+C:\Users\qwerty\source\repos\Begin\Begin\obj\Debug\Begin.csproj.AssemblyReference.cache
+C:\Users\qwerty\source\repos\Begin\Begin\obj\Debug\Begin.csproj.CoreCompileInputs.cache
